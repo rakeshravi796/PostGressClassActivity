@@ -1,5 +1,5 @@
 # PostGressClassActivity
-
+<p>
 postgres=# CREATE TABLE students (
 postgres(#
 postgres(#      student_id INTEGER,
@@ -619,5 +619,5 @@ nt_date | grade
 
 
 postgres=#
-
+</p>
 
